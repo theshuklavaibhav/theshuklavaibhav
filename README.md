@@ -1,110 +1,173 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Shukla</h1>
-<h3 align="center">Software Engineer | Flutter Developer | DSA Enthusiast</h3>
+<!-- HEADER BANNER -->
 
 <p align="center">
-Building scalable apps • Practicing Data Structures & Algorithms • Learning backend systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Vaibhav%20Shukla&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">Flutter Developer • Software Engineer • Problem Solver</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Real-Time+Flutter+Applications;Data+Structures+%26+Algorithms+Enthusiast;Open+Source+Contributor;Future+Software+Engineer"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;DSA+Enthusiast;Building+Scalable+Systems;Future+SDE&center=true&width=500&height=45">
+<img src="https://komarev.com/ghpvc/?username=theshuklavaibhav&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/theshuklavaibhav?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/theshuklavaibhav?style=for-the-badge&logo=github"/>
 </p>
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,cpp,git,github,postman,vscode"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-
-</p>
-
-
-## 🚀 Featured Projects
-
-### 🛒 Flutter E-Commerce App
-Full-stack scalable shopping app built with Flutter and Firebase.
-
-Features
-- Product catalog
-- Cart system
-- Firebase authentication
-- Clean UI architecture
 
 ---
 
-### 📝 Notes App (SQLite + Provider)
+# 👨‍💻 About Me
 
-A local database based notes app.
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Features
-- CRUD operations
-- Provider state management
-- SQLite database integration
+🎓 Final Year **B.Tech Computer Science Student (2022-2026)**
+📱 Building **real-time Flutter applications using Firebase & REST APIs**
+🧠 Solved **155+ DSA problems** on LeetCode & GFG
+🏆 **Gold Microsoft Learn Student Ambassador**
+🌍 Open Source Contributor
+
+⚡ Interested in **scalable systems, clean architecture, and real-world applications**
 
 ---
 
-### 🌐 IoT Sensor Dashboard
-
-Real-time sensor monitoring dashboard using ESP32 + WebSocket.
-
-## 🧠 Data Structures & Algorithms
-
-- Solved 100+ DSA problems
-- Topics Covered:
-  - Arrays
-  - Strings
-  - Linked List
-  - Stack & Queue
-  - Recursion
-  - Backtracking
-
-Currently learning:
-- Trees
-- Graphs
-- Dynamic Programming
-
-## 🤝 Connect With Me
+# ⚙️ Tech Stack
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,c,firebase,sqlite,gcp,aws,git,github,vscode,androidstudio,postman&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theshuklavaibhav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=theshuklavaibhav&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshuklavaibhav&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theshuklavaibhav&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/vaibhavshuklaofficial8586?theme=dark&font=baloo&ext=contest"/>
+</p>
+
+Solved **155+ algorithmic problems** covering:
+
+✔ Arrays
+✔ Strings
+✔ Linked Lists
+✔ Binary Search
+✔ Recursion
+✔ Backtracking
+
+Currently exploring:
+
+🌳 Trees
+🌐 Graph Algorithms
+⚡ Dynamic Programming
+
+---
+
+# 🚀 Featured Project
+
+## PlateMate — Real-Time Food Donation Platform
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" width="140"/>
+</p>
+
+**Tech Stack:** Flutter • Firebase • REST APIs • Provider • Google Maps • Gemini AI
+
+PlateMate connects **food donors (homes/restaurants)** with **nearby NGOs** using real-time location tracking.
+
+### Key Features
+
+• Real-time donation tracking
+• Firebase Authentication
+• Cloud Firestore database
+• Google Maps donor–NGO matching
+• AI-powered donor experience
+
+### Impact
+
+🚀 Enabled **200+ donation connections**
+⚡ Reduced delivery time by **35%**
+
+---
+
+# 🌍 Open Source
+
+### Microsoft — LangChain4j for Beginners
+
+✔ Fixed **Spring Boot configuration conflicts**
+✔ Implemented **UTF-8 fixes**
+✔ Improved documentation for contributors
+
+---
+
+# 🏆 Leadership
+
+### Microsoft Learn Student Ambassador — Gold
+
+🚀 Worked on **Azure + AI projects**
+🤝 Participated in **Flutter + Azure cross-platform initiatives**
+🌍 Engaged with developer communities
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/theshuklavaibhav/theshuklavaibhav/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-shukla-248810249">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vaibhavshuklaofficial8568@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/vaibhavshuklaofficial8586/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/theshuklavaibhav">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
+---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=120&section=footer"/>
 </p>
-
-<!--
-**theshuklavaibhav/theshuklavaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
