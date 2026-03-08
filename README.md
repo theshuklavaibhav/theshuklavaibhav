@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaibhav Shukla</h1>
+<h3 align="center">Software Engineer | Flutter Developer | DSA Enthusiast</h3>
+
+<p align="center">
+Building scalable apps • Practicing Data Structures & Algorithms • Learning backend systems
+</p>
 
 <!--
 **theshuklavaibhav/theshuklavaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
