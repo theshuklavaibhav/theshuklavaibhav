@@ -15,7 +15,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=theshuklavaibhav&label=Profile+Views&color=a78bfa&style=flat-square"/>
 &nbsp;
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-SDE%20%7C%20Flutter%20Dev-success?style=flat-square)
+<img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20Flutter%20Dev-3fb950?style=flat-square&logo=checkmarx&logoColor=white"/>
 
 </div>
 
