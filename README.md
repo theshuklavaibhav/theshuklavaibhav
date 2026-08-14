@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vaibhav%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descFontColor=b8b8ff&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vaibhav%20Shukla&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=62&descFontColor=b8b8ff&descSize=17&animation=fadeIn"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+real-time+Flutter+%2B+Firebase+apps+%F0%9F%9A%80;250%2B+DSA+problems+%E2%80%94+LeetCode+%26+GFG+%F0%9F%A7%A0;Gold+Microsoft+Learn+Student+Ambassador+%F0%9F%8F%85;Open+Source+Contributor+%40+Microsoft+%F0%9F%8C%8D;Seeking+SDE+Role+%E2%80%94+Available+Jun+2026+%F0%9F%93%85)](https://github.com/theshuklavaibhav)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=FastAPI+%2B+PostgreSQL+%2B+Flutter+%E2%80%94+Full+Stack+%F0%9F%9A%80;Shipped+2+production+apps+as+sole+developer+%F0%9F%9B%A0%EF%B8%8F;280%2B+DSA+problems+%E2%80%94+LeetCode+%26+GFG+%F0%9F%A7%A0;Gold+Microsoft+Learn+Student+Ambassador+%F0%9F%8F%85;Open+Source+Contributor+%40+Microsoft+%F0%9F%8C%8D;Seeking+SDE+%2F+Backend+%2F+Full-Stack+Roles+%F0%9F%93%85)](https://github.com/theshuklavaibhav)
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=theshuklavaibhav&label=Profile+Views&color=a78bfa&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20Flutter%20Dev-3fb950?style=flat-square&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20Backend%20%7C%20Full--Stack-3fb950?style=flat-square&logo=checkmarx&logoColor=white"/>
 
 </div>
 
@@ -25,31 +25,96 @@
 
 ## 👋 About Me
 
-```dart
-class Vaibhav {
-  final String role     = "Flutter Developer & SDE";
-  final String college  = "GNIOT — B.Tech CSE (2022–2026)";
-  final String flagship = "PlateMate — Flutter + Firebase + Gemini AI";
-  final int    dsa      = 250; // problems solved & counting
-  final String oss      = "Microsoft — LangChain4j-for-Beginners";
-  final String status   = "🟢 Open to SDE roles — Jun 2026";
-}
+```python
+class Vaibhav:
+    role      = "Backend Engineer & Full-Stack Developer"
+    college   = "GNIOT — B.Tech CSE (2022–2026)"
+    stack     = ["FastAPI", "PostgreSQL", "Flutter", "Firebase"]
+    projects  = ["ApplyFlow", "Dira", "PlateMate"]
+    dsa       = 280  # problems solved & counting
+    oss       = "Microsoft — LangChain4j-for-Beginners"
+    status    = "🟢 Open to SDE / Backend / Full-Stack roles"
 ```
 
-- 🎓 Final year **B.Tech CSE** at GNIOT, Greater Noida
-- 📱 Shipped **PlateMate** — a real-time food donation app (Flutter + Firebase + Gemini AI)
-- 🧠 **250+ DSA problems** solved across LeetCode & GFG
-- 🌍 **Open Source contributor** at Microsoft — documentation improvements
+- 🎓 B.Tech CSE graduate — GNIOT, Greater Noida (2026)
+- 🛠️ Shipped **ApplyFlow** — Railway-deployed FastAPI + PostgreSQL REST service with CI/CD
+- 🏥 Built **Dira** — multi-tenant distributed system for clinical ops (Flutter + Firebase)
+- 📱 Built **PlateMate** — real-time food donation platform (Flutter + Gemini AI)
+- 🧠 **280+ DSA problems** solved across LeetCode & GFG
+- 🌍 **Open Source contributor** at Microsoft GitHub
 - 🏅 **Gold Microsoft Learn Student Ambassador** — Dec 2024 to Mar 2026
-- ⚡ Passionate about clean architecture, scalable systems & real-world apps
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
 <table>
+<tr>
+<td>
+
+### ⚡ [ApplyFlow — Distributed Backend & Full-Stack Job Tracker](https://github.com/theshuklavaibhav/ApplyFlow)
+
+> *Production-grade REST API + Flutter client — containerized, CI/CD-automated, Railway-deployed*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+| Feature | Details |
+|---------|---------|
+| 🔐 Auth | JWT + bcrypt, OAuth2-protected routes, role-based access (USER/ADMIN) |
+| 🗄️ Database | Normalized schema — UUID keys, indexed FKs, CASCADE delete, Alembic migrations |
+| 🧪 Testing | pytest unit + integration tests; GitHub Actions CI on every push to main |
+| 📱 Client | Flutter (Android + iOS) — dark UI, fl_chart analytics, shimmer loaders, secure JWT storage |
+| 📖 Docs | Live Swagger/OpenAPI auto-generated at /docs |
+
+```
+🚀  Containerized & horizontally-deployable — live on Railway
+🧪  Zero manual regression testing after CI/CD setup
+🏗️  Layered architecture: routers → services → repositories (FastAPI)
+                          screens → providers → services (Flutter)
+👤  Sole developer — designed, built, tested & deployed end-to-end
+```
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏥 [Dira — Multi-Tenant Distributed System for Clinical Operations](https://github.com/theshuklavaibhav/Dira-Internal-task-ticket-coordination-for-clinics-and-pharmacies)
+
+> *Clinics & pharmacies get a shared, real-time, fault-isolated workspace — server-enforced tenant isolation*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6B4EFF?style=flat-square&logo=dart&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-DD4B39?style=flat-square&logo=gmail&logoColor=white)
+
+| Feature | Details |
+|---------|---------|
+| 🏢 Multi-Tenancy | Each clinic fully isolated — enforced via custom Firestore Security Rules (isMember/isAdmin) |
+| 📋 Kanban Board | Real-time ticket board (Open / In Progress / Done) synced live across all devices |
+| 🔐 Auth | 3 independent flows — Email/Password, Google Sign-In, Phone/OTP via Firebase Auth |
+| 📧 Invite Pipeline | Serverless staff-invite system — auto-grants access on accepted invite via EmailJS REST API |
+| 🎨 Design System | Full light/dark Material 3 theme from exported design tokens — Manrope typography |
+
+```
+🔒  Tenant isolation enforced server-side — not just client-side checks
+⚡  Live kanban with search, type & priority filters across devices
+📨  Automated invite pipeline — zero manual access provisioning
+👤  Sole developer — architected, built & shipped end-to-end
+```
+
+</td>
+</tr>
+
 <tr>
 <td>
 
@@ -65,14 +130,14 @@ class Vaibhav {
 
 | Feature | Details |
 |---------|---------|
-| 🗺️ Real-time Matching | Donor–NGO pairing via Google Maps geolocation |
+| 🗺️ Real-time Matching | Donor–NGO pairing via Firestore listeners + Google Maps geolocation |
 | 🔐 Multi-role Auth | Donor / NGO / Admin login via Firebase Auth |
-| ⚡ Live Sync | Firestore listeners + Cloud Functions for instant updates |
-| 🤖 AI Integration | Gemini AI for personalized donor experience |
+| ⚡ Live Sync | Cloud Functions for server-side automation and push notifications |
+| 🤖 AI Integration | Gemini AI for personalized donor recommendations |
 
 ```
 ✅  200+ successful donor–NGO connections in early testing
-⚡  35% reduction in food delivery coordination time
+📱  Cross-platform — Android & Web
 👤  Sole developer — designed, built & tested end-to-end
 ```
 
@@ -90,14 +155,13 @@ class Vaibhav {
 
 ### 🏢 [Microsoft — LangChain4j-for-Beginners](https://github.com/microsoft/LangChain4j-for-Beginners)
 
-![Type](https://img.shields.io/badge/Type-Documentation-58a6ff?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Bug%20Report-e3342f?style=flat-square)
 ![Org](https://img.shields.io/badge/Org-Microsoft-0078d4?style=flat-square&logo=microsoft&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Merged%20%2F%20Fixed-3fb950?style=flat-square)
 
-- 📝 Improved onboarding documentation to reduce friction for new contributors
-- 🔍 Identified unclear and outdated sections affecting beginner experience
-- 🛠️ Restructured and rewrote docs for clarity — benefiting **500+ developers** discovering the repo
-
-> *Contributing to a Microsoft project used by thousands of developers showed me how impactful good documentation is — it's the front door of every open source project.*
+- 🔍 Diagnosed two Spring Boot configuration bugs (UTF-8 encoding + incorrect port mapping) blocking new contributors from running the project locally
+- 📋 Filed a detailed root-cause report with fully reproducible steps — maintainers confirmed and shipped a fix based on the report
+- 🌍 Contribution unblocked **500+ developers** discovering the repository — hands-on practice diagnosing an unfamiliar production codebase under real constraints
 
 </td>
 </tr>
@@ -110,27 +174,36 @@ class Vaibhav {
 <div align="center">
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Mobile & Backend
+### Backend & Database
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Mobile & Cloud
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### Testing & DevOps
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 DSA Progress — 250+ Problems
+## 🧠 DSA Progress — 280+ Problems
 
 <div align="center">
 
@@ -174,10 +247,12 @@ class Vaibhav {
 
 | | Achievement | Period |
 |-|-------------|--------|
+| ⚡ | **ApplyFlow** — FastAPI + PostgreSQL + Flutter, Railway-deployed, CI/CD via GitHub Actions | Jun 2026 |
+| 🏥 | **Dira** — Multi-tenant distributed system, 3 auth providers, real-time Firestore kanban | Jul 2026 |
+| 📱 | **PlateMate** — Cross-platform Flutter app, 200+ donor-NGO connections | 2025 |
 | 🏅 | **Gold Microsoft Learn Student Ambassador** | Dec 2024 – Mar 2026 |
-| 🌍 | **Open Source Contributor — Microsoft GitHub** | 2024–2025 |
-| 💻 | **250+ DSA Problems** — LeetCode + GFG | Ongoing |
-| 📱 | **PlateMate** — End-to-end solo Flutter app | 2024 |
+| 🌍 | **Open Source Contributor — Microsoft GitHub** | Nov 2025 |
+| 💻 | **280+ DSA Problems** — LeetCode + GFG | Ongoing |
 
 </div>
 
@@ -187,7 +262,7 @@ class Vaibhav {
 
 <div align="center">
 
-**🟢 Actively seeking SDE / Flutter Developer roles — available June 2026**
+**🟢 Actively seeking SDE / Backend / Full-Stack roles — available now**
 
 If you're hiring or know of opportunities, I'd love to connect!
 
